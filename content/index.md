@@ -1,7 +1,7 @@
 ---
 seo:
-  title: Nuxt Docs Template
-  description: Create stunning, fast and SEO-optimized documentation sites with Nuxt UI.
+  title: Christian Dogmatics
+  description: Christian Dogmatics of Dr. Francis Pieper Dogmatic Works, that was translated by TH. D. John Theodore Mueller in 1834, is published here in MD format.
 ---
 
 ::u-page-hero{class="dark:bg-gradient-to-b from-neutral-900 to-neutral-950"}
@@ -12,19 +12,21 @@ orientation: horizontal
 :hero-background
 
 #title
-Ship Beautiful [Documentation]{.text-primary}.
+Christian Dogmatics 
+
+[By Mueller (1834)]{.text-primary}
 
 #description
-Build professional documentation with Nuxt UI's powerful components, enhanced typography, and seamless Nuxt Content integration. The same system trusted by the entire [Nuxt ecosystem](https://nuxt.com).
+**Christian Dogmatics** of _Dr. Francis Pieper_ **Dogmatic Works** was translated by _TH. D. John Theodore Mueller_ in 1834, and published here in MD format.
 
 #links
   :::u-button
   ---
-  to: /getting-started
+  to: /introduction
   size: xl
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  Start to read
   :::
 
   :::u-button
@@ -33,231 +35,279 @@ Build professional documentation with Nuxt UI's powerful components, enhanced ty
   color: neutral
   variant: outline
   size: xl
-  to: https://github.com/nuxt-ui-templates/docs
+  to: https://github.com/LawyerKyrie/Christian-Dogmatics/content
   target: _blank
   ---
-  Use this template
+  GitHub sourcecode
   :::
 
 #default
   :::prose-pre
   ---
   code: |
-    export default defineNuxtConfig({
-      modules: [
-        '@nuxt/ui',
-        '@nuxt/content',
-        'nuxt-og-image',
-        'nuxt-llms'
-      ],
-
-      css: ['~/assets/css/main.css']
-    })
-  filename: nuxt.config.ts
+    God! Open my eyes and heart for the truth in this book! In Jesu name we pray!
+  filename: Pray before reading!
   ---
 
-  ```ts [nuxt.config.ts]
-  export default defineNuxtConfig({
-    modules: [
-      '@nuxt/ui',
-      '@nuxt/content',
-      'nuxt-og-image',
-      'nuxt-llms'
-    ],
-
-    css: ['~/assets/css/main.css']
-  })
+  ```bash [Pray before reading!]
+    God! Open my eyes and heart for the truth in this book! In Jesu name we pray!
   ```
   :::
 ::
 
+
 ::u-page-section{class="dark:bg-neutral-950"}
 #title
-Powered by Nuxt UI components
+Content
+
+#features
+
+  :::u-page-feature
+  ---
+  title: 1. Introduction
+  description: Intro about the authors and publisher.
+  icon: i-heroicons-book-open
+  to: /introduction
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 2. Nature and concept of Theology
+  description: Introduction to Sacred Theology (Prolegoena).
+  icon: i-heroicons-academic-cap
+  to: /nature-and-concept-of-theology
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 3. The Doctrine of Holy Scripture
+  description: Holy Scripture; the Only Source and Norm of Faith, etc.'
+  icon: i-heroicons-book-open-solid
+  to: /the-doctrine-of-holy-scripture
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 4. The Doctrine of God
+  description: The Doctrine of the Holy Trinity in Controversy etc.
+  icon: i-heroicons-globe-alt
+  to: /the-doctrine-of-god
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 5. The Doctrine of Divine Decrees
+  description: The acts of God are divided into internal, and external ...
+  icon: i-heroicons-adjustments-vertical
+  to: /the-doctrine-of-the-divine-decrees
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 6. The Doctrine of Creation
+  description: The Six Days of Creation Considered in Detail. Etc.
+  icon: i-heroicons-beaker
+  to: /the-doctrine-of-creation
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 7 The Doctrine of Divine Providence
+  description: God as creator also sustains the word and cares for all ...
+  icon: i-heroicons-adjustments-horizontal
+  to: /the-doctrine-of-divine-providence
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 8. The Doctrine of the Angels
+  description: The existence, nature, name, number and ranks of Angels. Etc.
+  icon: i-heroicons-face-smile
+  to: /the-doctrine-of-the-angels
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 9. The Doctrine of Man
+  description: Man Before the Fall and The State of Corruption.
+  icon: i-heroicons-user
+  to: /the-doctrine-of-man
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 10. The freedom of the will
+  description: We sins not against our will, but of our own free will.
+  icon: i-heroicons-video-camera-solid
+  to: /the-freedom-of-the-will
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 11 The Grace of God toward fallen mankind
+  description: The Necessity of Divine Grace and attributes of Justifying Grace.
+  icon: i-heroicons-user-group-solid
+  to: /the-grace-of-god-toward-fallen-mankind
+  ---
+  :::
+  
+  :::u-page-feature
+  ---
+  title: 12. The Doctrine of Christ
+  description: The Doctrine of His Person, the States of Christ and His Office.
+  icon: i-heroicons-star
+  to: /the-doctrine-of-christ
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 13. The Doctrine of Soteriology
+  description: The purpose is to show how the Holy Spirit applies to every sinner.
+  icon: i-heroicons-signal
+  to: /the-doctrine-of-soteriology
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 14. The Doctrine of saving faith
+  description: The Necessity of Faith, the Nature of Saving Faith. Etc.
+  icon: i-simple-icons-istio
+  to: /the-doctrine-of-saving-faith
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 15. Conversion, or the bestowal of Faith
+  description: Bestowal comes first and then comes faith in Gods bestowal.
+  icon: i-heroicons-speaker-wave-solid
+  to: /conversion-or-the-bestowal-of-faith
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 16. Justification by Faith
+  description: This Doctrine is the Central Doctrine in the Lutheran Theo.
+  icon: i-heroicons-scale
+  to: /justification-by-faith
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 17. The Doctrine of Sanctification and good works
+  description: Sanctification after justification, no justification after.
+  icon: i-heroicons-shopping-cart
+  to: /the-doctrine-of-sanctification-and-good-works
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 18. The Doctrine of Preservation
+  description: he that endureth to the end shall be saved. Matt. 10, 22
+  icon: i-heroicons-rocket-launch
+  to: /the-doctrine-of-preservation
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 19. The Doctrine of the means of Grace
+  description: The redemptive work and the obj. justification is the light ...
+  icon: i-heroicons-gift
+  to: /the-doctrine-of-the-means-of-grace
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 20. The Law and the Gospel
+  description: Law is about duties (commandments), Gospel is about Grace.
+  icon: i-heroicons-scale-solid
+  to: /the-law-and-the-gospel
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 21. The Doctrine of Holy Baptism
+  description: Baptism is the Sacrament (init) by which faith is engendered.
+  icon: i-simple-icons-fluentd
+  to: /the-doctrine-of-holy-baptism
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 22. The Doctrine of the Lords Supper
+  description: Lords Supper is the Sacrament by which faith is strengthened.
+  icon: i-heroicons-trophy
+  to: /the-doctrine-of-the-lords-supper
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 23. The Doctrine of the christian Church
+  description: All (universal) believers and Local Churces Public Ministry.
+  icon: i-simple-icons-aegisauthenticator
+  to: /the-doctrine-of-the-christian-church
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 24. The Doctrine of the public Ministry
+  description: Public Ministry can be established where Local Churces exist.
+  icon: i-heroicons-users
+  to: /the-doctrine-of-the-public-ministry
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 25. The Doctrine of eternal election
+  description: some are struck by the Law and others are not struck (Luther)
+  icon: i-heroicons-sparkles
+  to: /the-doctrine-of-eternal-election
+  ---
+  :::
+
+  :::u-page-feature
+  ---
+  title: 26. The Doctrine of the last things (eschatology)
+  description: The last with which the present world comes to an end.
+  icon: i-heroicons-bell-solid
+  to: /the-doctrine-of-the-last-things-eschatology
+  ---
+  :::
 
 #links
+
   :::u-button
   ---
   color: neutral
   size: lg
   target: _blank
-  to: https://ui.nuxt.com/docs/getting-started/installation/nuxt
+  to: https://github.com/LawyerKyrie/Christian-Dogmatics
   trailingIcon: i-lucide-arrow-right
   variant: subtle
   ---
-  Explore Nuxt UI
+  Explore Source Code
   :::
 
-#features
-  :::u-page-feature
-  ---
-  icon: i-lucide-palette
-  ---
-  #title
-  100+ UI Components
-
-  #description
-  Access the complete Nuxt UI component library. From badges to modals, everything styled and accessible out of the box.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-type
-  ---
-  #title
-  Beautiful Typography
-
-  #description
-  Pre-styled prose components with perfect visual harmony. No need for @tailwindcss/typography - get precise control over every element.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-layers
-  ---
-  #title
-  Rich Prose Components
-
-  #description
-  Accordions, cards, callouts, tabs, steps, code blocks, and more - all provided by Nuxt UI for interactive documentation.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-search
-  ---
-  #title
-  Built-in Search
-
-  #description
-  Full-text search with ContentSearch component. No need for Algolia - instant, relevant results with keyboard shortcuts (⌘K).
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-navigation
-  ---
-  #title
-  Smart Navigation
-
-  #description
-  Auto-generated navigation with ContentNavigation and ContentToc components. Sticky table of contents and prev/next links.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-moon
-  ---
-  #title
-  Dark Mode Ready
-
-  #description
-  Automatic theme switching with smooth transitions. Respects system preferences and remembers user choice.
-  :::
-::
-
-::u-page-section{class="dark:bg-neutral-950"}
-#title
-Enhanced with Nuxt Content
-
-#links
-  :::u-button
-  ---
-  color: neutral
-  size: lg
-  target: _blank
-  to: https://content.nuxt.com/docs/getting-started/installation
-  trailingIcon: i-lucide-arrow-right
-  variant: subtle
-  ---
-  Explore Nuxt Content
-  :::
-
-#features
-  :::u-page-feature
-  ---
-  icon: i-simple-icons-markdown
-  ---
-  #title
-  MDC Enhanced Markdown
-
-  #description
-  Write in Markdown while embedding Vue components. Seamlessly integrate interactive elements in your content.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-file-text
-  ---
-  #title
-  File-based Routing
-
-  #description
-  Organize content in folders and files. Your documentation structure automatically becomes your navigation.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-code
-  ---
-  #title
-  Syntax Highlighting
-
-  #description
-  Beautiful code blocks with language detection, line numbers, and copy buttons. Support for 100+ languages.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-database
-  ---
-  #title
-  Content Database
-
-  #description
-  Query your content with a MongoDB-like API. Filter, sort, and search through your documentation programmatically.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-file-code
-  ---
-  #title
-  Frontmatter Support
-
-  #description
-  Add metadata to your content files. Define SEO tags, navigation properties, and custom fields.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-lucide-git-branch
-  ---
-  #title
-  Version Control
-
-  #description
-  Content lives in your repository. Branch, review, and deploy documentation alongside your code.
-  :::
-::
-
-::u-page-section{class="dark:bg-gradient-to-b from-neutral-950 to-neutral-900"}
-  :::u-page-c-t-a
-  ---
-  links:
-    - label: Start building
-      to: '/getting-started'
-      trailingIcon: i-lucide-arrow-right
-    - label: View on GitHub
-      to: 'https://github.com/nuxt-ui-templates/docs'
-      target: _blank
-      variant: subtle
-      icon: i-simple-icons-github
-  title: Ready to build an amazing documentation?
-  description: Join thousands of developers building with Nuxt and Nuxt UI. Get this template and start shipping today.
-  class: dark:bg-neutral-950
-  ---
-
-  :stars-bg
-  :::
 ::

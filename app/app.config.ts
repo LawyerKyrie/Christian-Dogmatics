@@ -12,10 +12,10 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Nuxt Docs Template'
+    siteName: 'Christian Doctrine'
   },
   header: {
-    title: '',
+    title: 'Christian Dogmatics',
     to: '/',
     logo: {
       alt: '',
@@ -26,7 +26,7 @@ export default defineAppConfig({
     colorMode: true,
     links: [{
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt-ui-templates/docs',
+      'to': 'https://github.com/LawyerKyrie/Christian-Doctrines',
       'target': '_blank',
       'aria-label': 'GitHub'
     }]
@@ -55,16 +55,16 @@ export default defineAppConfig({
     title: 'Table of Contents',
     bottom: {
       title: 'Community',
-      edit: 'https://github.com/nuxt-ui-templates/docs/edit/main/content',
+      edit: 'https://github.com/LawyerKyrie/Christian-Dogmatics/content',
       links: [{
         icon: 'i-lucide-star',
         label: 'Star on GitHub',
-        to: 'https://github.com/nuxt/ui',
+        to: 'https://github.com/LawyerKyrie/Christian-Dogmatics',
         target: '_blank'
       }, {
         icon: 'i-lucide-book-open',
-        label: 'Nuxt UI docs',
-        to: 'https://ui.nuxt.com/docs/getting-started/installation/nuxt',
+        label: 'nuxt-docs-ui-theme',
+        to: 'https://github.com/LawyerKyrie/nuxt-docs-ui-theme',
         target: '_blank'
       }]
     }

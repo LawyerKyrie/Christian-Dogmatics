@@ -39,6 +39,9 @@ provide('navigation', navigation)
       </NuxtLayout>
     </UMain>
 
+    <!-- Added 28.10.2025 -->
+    <BackToTop />
+
     <AppFooter />
 
     <ClientOnly>

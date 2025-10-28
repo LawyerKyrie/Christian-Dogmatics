@@ -1,25 +1,5 @@
 <script setup lang="ts">
 const { footer } = useAppConfig()
-
-const showButton = ref(false)
-const handleScroll = () => {
-  showButton.value = window.scrollY > 200 // Show button after scrolling 200px
-}
-
-const scrollToTop = () => {
-  window.scrollTo({
-    top: 0,
-    behavior: 'smooth'
-  })
-}
-
-onMounted(() => {
-  window.addEventListener('scroll', handleScroll)
-})
-
-onUnmounted(() => {
-  window.removeEventListener('scroll', handleScroll)
-})
 </script>
 
 <template>

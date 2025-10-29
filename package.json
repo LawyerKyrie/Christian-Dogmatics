@@ -1,6 +1,5 @@
 {
   "name": "christian-dogmatics",
-  "private": true,
   "type": "module",
   "scripts": {
     "build": "nuxt build",

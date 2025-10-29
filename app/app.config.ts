@@ -26,19 +26,19 @@ export default defineAppConfig({
     colorMode: true,
     links: [{
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/LawyerKyrie/Christian-Doctrines',
+      'to': 'https://github.com/LawyerKyrie/',
       'target': '_blank',
       'aria-label': 'GitHub'
     }]
   },
   footer: {
-    credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
+    credits: `@LawyerKyrie • © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-discord',
-      'to': 'https://go.nuxt.com/discord',
+      'to': 'https://github.com/LawyerKyrie/Christian-Dogmatics/discussions',
       'target': '_blank',
-      'aria-label': 'Nuxt on Discord'
+      'aria-label': 'Discussions on GitHub'
     }, {
       'icon': 'i-simple-icons-x',
       'to': 'https://go.nuxt.com/x',
@@ -46,9 +46,9 @@ export default defineAppConfig({
       'aria-label': 'Nuxt on X'
     }, {
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
+      'to': 'https://github.com/LawyerKyrie/Christian-Dogmatics/',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'Christian-Dogmatics on GitHub'
     }]
   },
   toc: {

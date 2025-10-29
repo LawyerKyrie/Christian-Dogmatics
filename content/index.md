@@ -1,7 +1,7 @@
 ---
 seo:
   title: Christian Dogmatics
-  description: Christian Dogmatics of Dr. Francis Pieper Dogmatic Works, that was translated by TH. D. John Theodore Mueller in 1834, is published here in MD format.
+  description: Dr. Francis Pieper's magnum opus Christliche Dogmatik (1924) can be found here as TH. D. John Theodore Mueller published it (1934), cf. Internet Archive.
 ---
 
 ::u-page-hero{class="dark:bg-gradient-to-b from-neutral-900 to-neutral-950"}
@@ -14,10 +14,10 @@ orientation: horizontal
 #title
 Christian Dogmatics 
 
-[By Mueller (1834)]{.text-primary}
+[Pieper & Mueller]{.text-primary}
 
 #description
-**Christian Dogmatics** of _Dr. Francis Pieper_ **Dogmatic Works** was translated by _TH. D. John Theodore Mueller_ in 1834, and published here in MD format.
+_Dr. Francis Pieper's_ magnum opus **Christliche Dogmatik** (1924) can be found here as _TH. D. John Theodore Mueller_ published it (1934), cf. <u>[Internet Archive](https://archive.org/details/Mueller/mode/2up){:target="_blank"}</u>.
 
 #links
   :::u-button

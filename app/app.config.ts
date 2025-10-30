@@ -15,7 +15,7 @@ export default defineAppConfig({
     siteName: 'Christian Doctrine'
   },
   header: {
-    title: 'Christian Dogmatics',
+    title: '',
     to: '/',
     logo: {
       alt: '',

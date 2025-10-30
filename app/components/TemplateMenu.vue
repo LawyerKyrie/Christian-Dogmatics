@@ -3,20 +3,20 @@
     v-slot="{ open }"
     :modal="false"
     :items="[{
-      label: 'Starter',
-      to: 'https://starter-template.nuxt.dev/'
+      label: 'Books',
+      to: 'https://luther-books-v1.vercel.app/'
     }, {
-      label: 'Landing',
-      to: 'https://landing-template.nuxt.dev/'
+      label: 'Works',
+      to: 'https://Luthers-works-v1.vercel.app/'
     }, {
-      label: 'Docs',
-      to: 'https://docs-template.nuxt.dev/',
+      label: 'Dogma',
+      to: 'https://christian-dogmatics.vercel.app/',
       color: 'primary',
       checked: true,
       type: 'checkbox'
     }, {
-      label: 'SaaS',
-      to: 'https://saas-template.nuxt.dev/'
+      label: 'Catechism',
+      to: 'https://Luthers-catechism.vercel.app/'
     }, {
       label: 'Dashboard',
       to: 'https://dashboard-template.nuxt.dev/'
@@ -35,7 +35,7 @@
     size="xs"
   >
     <UButton
-      label="Docs"
+      label="More"
       variant="subtle"
       trailing-icon="i-lucide-chevron-down"
       size="xs"

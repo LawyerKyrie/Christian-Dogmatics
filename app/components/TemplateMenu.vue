@@ -4,10 +4,12 @@
     :modal="false"
     :items="[{
       label: 'Books',
-      to: 'https://luther-books-v1.vercel.app/'
+      to: 'https://luther-books-v1.vercel.app/',
+      target: '_blank'
     }, {
       label: 'Works',
-      to: 'https://Luthers-works-v1.vercel.app/'
+      to: 'https://Luthers-works-v1.vercel.app/',
+      target: '_blank'
     }, {
       label: 'Dogma',
       to: 'https://christian-dogmatics.vercel.app/',
@@ -16,19 +18,24 @@
       type: 'checkbox'
     }, {
       label: 'Catechism',
-      to: 'https://Luthers-catechism.vercel.app/'
+      to: 'https://Luthers-catechism.vercel.app/',
+      target: '_blank'
     }, {
       label: 'Dashboard',
-      to: 'https://dashboard-template.nuxt.dev/'
+      to: 'https://dashboard-template.nuxt.dev/',
+      target: '_blank'
     }, {
       label: 'Chat',
-      to: 'https://chat-template.nuxt.dev/'
+      to: 'https://chat-template.nuxt.dev/',
+      target: '_blank'
     }, {
       label: 'Portfolio',
-      to: 'https://portfolio-template.nuxt.dev/'
+      to: 'https://portfolio-template.nuxt.dev/',
+      target: '_blank'
     }, {
       label: 'Changelog',
-      to: 'https://changelog-template.nuxt.dev/'
+      to: 'https://changelog-template.nuxt.dev/',
+      target: '_blank'
     }]"
     :content="{ align: 'start' }"
     :ui="{ content: 'min-w-fit' }"

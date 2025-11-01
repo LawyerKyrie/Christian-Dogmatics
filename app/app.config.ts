@@ -24,12 +24,7 @@ export default defineAppConfig({
     },
     search: true,
     colorMode: true,
-    links: [{
-      'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/LawyerKyrie/',
-      'target': '_blank',
-      'aria-label': 'GitHub'
-    }]
+    // links: [{ /* Removed link to GitHub here */ }]
   },
   footer: {
     credits: `@LawyerKyrie • © ${new Date().getFullYear()}`,

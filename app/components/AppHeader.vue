@@ -53,6 +53,7 @@ const { header } = useAppConfig()
 
       <UColorModeButton v-if="header?.colorMode" />
 
+      <!-- // Skipping template after removing github link from app.config
       <template v-if="header?.links">
         <UButton
           v-for="(link, index) of header.links"
@@ -60,6 +61,7 @@ const { header } = useAppConfig()
           v-bind="{ color: 'neutral', variant: 'ghost', ...link }"
         />
       </template>
+      -->
     </template>
 
     <template #body>

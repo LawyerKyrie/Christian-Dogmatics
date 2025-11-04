@@ -76,6 +76,11 @@ const links = computed(() => {
         :value="page"
       />
 
+      <ClientOnly>
+        <!-- Added 04.11.2025 -->
+        <GithubComments />
+      </ClientOnly>
+
       <USeparator v-if="surround?.length" />
 
       <UContentSurround :surround="surround" />

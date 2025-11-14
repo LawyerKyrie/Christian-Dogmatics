@@ -24,44 +24,57 @@ The Scriptural doctrine that man in spiritual matters has no free will at all, b
 In opposition to this error the Formula of Concord declares: "In spiritual and divine things the intellect, heart, and will of the unregenerate man are utterly unable by their own natural powers to understand, believe, accept, think, will, begin, effect, do, work, or concur in working, anything, but they are entirely dead to what is good, and corrupt, so that in man's nature since the Fall, before regeneration, there is not the least spark of spiritual power remaining nor present, by which of himself he can prepare himself for God's grace or accept the offered grace, nor be capable of it for and of himself, or apply or accommodate himself thereto, or by his own powers be able of himself, as of himself, to aid, do, work, or concur in working, anything towards his conversion, either wholly or half or in any, even the least or most inconsiderable, part; but he is the servant of sin, John 8, 34, and a captive of the devil, by whom he is moved, Eph. 2, 2; 2 Tim. 2, 26. Hence the natural free will according to its perverted disposition and nature is strong and active only with respect to what is displeasing and contrary to God." [(Thor. Decl., II, 7.)](https://boc.confident.faith/sd-ii-0007){:target="_blank"}
 
 ## Arguments to oppose the Scripture-doctrine of man's total loss of free will
+
 Among the arguments that have been used to oppose the Scripture-doctrine of man's total loss of free will in spiritual matters the following may be considered as the most important: -
 
 ### 1. Rom. 2, 14
+
 1. It must be true that natural man has a free will in spiritual matters since St. Paul declares that the "Gentiles do by nature the things contained in the Law," Rom. 2, 14. -Reply: St. Paul here describes only the external obedience (quoad materiale) of the heathen and not the true obedience, which flows from faith and love toward God (quoad formale); for the same apostle who declares that the heathen do the things contained in the Law also declares that they are without God and without hope in the world, Eph. 2, 12, alienated from God, Col. 1, 21, and His enemies, Rom. 8, 7. While to a certain extent the heathen may exercise themselves in civil righteousness (iustitia civilis), they are mcapable of spiritual righteousness (iustitia spiritual is). Homo reiicit evangelium natura, credit gratia.
 
 ### 2. Matt. 22, 37-39 & Acts 16, 31
+
 2. Natural man must have a free will in spiritual matters, since God commands him to obey the Law and to believe the Gospel, Matt. 22, 37-39; Acts 16, 31.- Reply: From the divine command we must not infer the human ability to comply with the divine command. (A praecepto divino ad posse humanum non valet consequentia.) The same Word of God which demands obedience to the Law, Gal. 3, 10, and faith in the Gospel, Mark 1, 15; Acts 16, 31, teaches also that natural man cannot obey the Law, Eccl. 7, 20; Ps. 143, 2; Is. 64, 6, nor believe in Christ by his own strength, John 6, 44; 2 Cor. 3, 5. Yet neither are the commands of the Law (adhortationes legales) useless, Luke 10, 28, nor are the Gospel exhortations (adhortationes evangelicae) in vain, Matt. 11, 28; for by the former the Holy Spirit works knowledge of sin, Rom. 3, 20, while by the latter He works faith, Rom. 10, 17; 1 Cor. 12, 3, so that the good and gracious will of God is actually accomplished in the sinner, who is called to repentance, by the preaching of the divine Word.
 
 ### 3. coercion on God's part
+
 3. Natural man must have a free will in spiritual matters since his conversion without his cooperation would imply coercion on God's part. - Reply: The conversion of a sinner is indeed the work of God's almighty power, Eph. 1, 19; but it is not an irresistible or coercive power since it may be resisted, Matt. 23, 37. However, the very nature of conversion excludes the idea of coercion; for it consists essentially in the gracious drawing of the sinner by God Himself, John 6, 44, which is accomplished through the means of grace, Rom. 10, 17. The Formula of Concord says: "(We reject) also when the following expressions are employed, ... namely, that ... the Holy Ghost is given to those who resist Him intentionally and persistently; for, as Augustine says, in conversion God makes willing persons out of the unwilling and dwells in the willing." [(Epit., II, 15.)](https://boc.confident.faith/ep-ii-0015){:target="_blank"}
 
 ### 4. God works don't include faith itself
+
 4. Natural man must have a free will in spiritual matters since God works only the power to believe, but not faith itself. - Reply: This argument is based upon a false premise; for God "worketh in you both to will and to do of His good pleasure," Phil. 2, 13. (Cp. also Eph. 1, 19; Phil. 1, 29.) In other words, the very faith by which we are saved is God's gracious gift and work in us.
 
 ### 5. The Holy Spirit would belive
+
 5. Natural man must have a free will in spiritual matters; for without his cooperation in conversion not he, but the Holy Spirit would believe.- Reply: The fallacy involved in this argument becomes clear when we consider that, though temporal life is the gift of God, bestowed upon man without his cooperation, yet the person so endowed with life himself lives, so that God does not do the living for him. It is the same with faith, which indeed is God's gift, but at the same time a gift that the believer himself possesses. 2 Tim. 1, 12 : "I know whom I have believed."
 
 ### 6. Since he can read the Bible
+
 6. Natural man must have a free will in spiritual matters since he can read the Bible, hear the Word of God, exercise himself in civil righteousness, etc.- Reply: All these works are external only, and not the fruits of true faith in Christ and of true love to God. The self-righteous Pharisee remained unconverted though he did all this and more, Luke 18, 10-14.
 
 ### 7. Logic about refuse to believe vs save
+
 7. Natural man must have a free will in spiritual matters; for if he can damn himself by refusing to believe, it follows with irresistible logic that he can also save himself by desiring and endeavoring to believe.- Reply: Scripture teaches very emphatically that the one does not follow from the other, Hos. 13, 9.
 
 ## All those who have advanced these arguments might be divided into three classes
+
 All these and other objections to divine monergism in con version flow from the carnal heart, which is as proud as it is selfrighteous. Those who have advanced these arguments might be divided into three classes: -
 
 ### a. Pelagians
+
 a) Pelagians, "who taught that man by his own powers, without the grace of the Holy Ghost, can turn Himself to God, believe the Gospel, be obedient from the heart to God's Law, and thus merit the forgiveness of sins and eternal life." (Formula of Concord, [Epit., II, 9](https://boc.confident.faith/ep-ii-0009){:target="_blank"} ff.)
 
 ### b. Semi-pelagians
+
 b) Semi-Pelagians (Arminians), "who teach that man by his own powers can make a beginning of his conversion, but without the grace of God cannot complete it." (Ibid.)
 
 ### c. Synergists
+
 c) Synergists, who teach "that, ... if the Holy Ghost by the preaching of the Word has made a beginning and therein offered His grace, then the will of man from its own natural powers can add something, though little and feebly, to this end, can help and cooperate, qualify, and prepare itself for grace, and embrace and accept it, and believe the Gospel." (Ibid.)
 
 From the gross synergism of Melanchthon, who taught that man can cooperate in his conversion by his natural powers, we distinguish the subtle synergism of the later dogmaticians (Latermann), wich claims that man can cooperate in his conversion with spiritual powers bestowed on him by the Holy Ghost. Both types place the cause of conversion and salvation in man himself. But man cooperates towards his conversion neither by natural nor by spiritual powers; not by natural powers, since by nature he is an enemy of God; and not by spiritual powers bestowed upon him, since he is already converted as soon as he is in possession of spiritual powers.
 
 ## Formula of Concord teaches
+
 Regarding this point the Formula of Concord teaches: "Through this means, namely, the preaching and hearing of His Word, God works and breaks our hearts and draws man, so that through the preaching of the Law he comes to know his sins and God's wrath and experiences in his heart true terrors, contrition, and sorrow, and through the preaching and consideration of the holy Gospel concerning the gracious forgiveness of sins in Christ a spark of faith is kindled in him, which accepts the forgiveness of sins for Christ's sake and comforts itself with the promise of the Gospel; and thus the Holy Ghost (who works all this) is sent into the heart, Gal. 4, 6." [(Thor. Decl., II, 54.)](https://boc.confident.faith/sd-ii-0054){:target="_blank"}
 
 [^1]: Dr. Francis Pieper talks about the free will in both vol. [I](https://archive.org/details/christliche-dogmatik-vol-1-2023-10-31-deep-l-en-no-highlight/mode/2up){:target="_blank"}, [II](https://archive.org/details/pieper-cdk-2-001-672-deep-l-en/mode/2up){:target="_blank"} and [III](https://archive.org/details/cdk-vol-3-deep-l-en-corrected-2023-11-28-no-shading/mode/2up){:target="_blank"}. In vol. I he talk about "the freedom of the will" in connection with [The doctrines of man](https://archive.org/details/christliche-dogmatik-vol-1-2023-10-31-deep-l-en-no-highlight/page/617/mode/2up){:target="_blank"}, [original sin](https://archive.org/details/christliche-dogmatik-vol-1-2023-10-31-deep-l-en-no-highlight/page/645/mode/2up){:target="_blank"} and [The consequences of the original sin](https://archive.org/details/christliche-dogmatik-vol-1-2023-10-31-deep-l-en-no-highlight/page/661/mode/2up){:target="_blank"}, [page 665](https://archive.org/details/christliche-dogmatik-vol-1-2023-10-31-deep-l-en-no-highlight/page/665/mode/2up){:target="_blank"}. _John Theodore Mueller_ has done well when he extracted the content about `the free will` and put it in a separate chapter between the content from Pieper's vol. I and II. (The contents of Pieper's vol. I is found in chapters 1 to 10 of Mueller's Dogmatics, and the contents of Pieper's vol III are found in chapters 17 to 26, starting with the chapter on sanctification. More precisely, Mueller has placed the content of free will in Chapter 11.)

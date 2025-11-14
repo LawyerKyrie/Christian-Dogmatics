@@ -16,7 +16,7 @@ This earnest admonition implies that many do not endure in faith, and that again
 
 ## Calvinism and synergism
 
-### a. Against Calvinism.
+### a. Against Calvinism
 
 Calvinism teaches persistently that it is impossible for those who have once been endowed with faith to lose it again, even if they should commit enormous crimes (peccata enormia). Its claim is that, while the exercise of faith (exercitium fidei) may cease, faith itself never ceases. Calvin: Tenendum est, quantumvis exigua sit ac debilis in electis fides, quia tamen Spiritus Dei certa illis arrha est ac sigillum suae adoptionis, nunquam ex eorum cordibus deleri posse eius sculpturam. (Inst., II, 2, 12.)
 
@@ -32,7 +32,7 @@ Luther's method alone is Scriptural; for not only does the Gospel truly comfort 
 
 It goes without saying that all who deny the gratia universalis are unable to console despairing sinners with the gracious Gospel promises. Since they teach particular grace (gratia particularis), it is impossible for them to assure the individual sinner that God's grace is seriously meant for him. By a fortunate inconsistency the practise of Calvinistic preachers is often better than is their theory.
 
-### b. Against synergism.
+### b. Against synergism
 
 As the Calvinistic doctrine of final perseverance is unscriptural, so also is that of the synergists. While the Calvinists deny the gratia universalis, the synergists deny the sola gratia. Hence they are compelled to prompt the sinner to rely for salvation, in part at least, on his own worthiness. The statement that "good works are necessary to preserve faith," which the Formula of Concord so vigorously rejects, is a real expression of synergistic cooperation. It is synergistic doctrine that, as the sinner must do his share to become a believer, so he also must do his part to persevere in faith. In the final analysis therefore synergism teaches, in common with Calvinism, that the Christian assurance of the believer depends on something in his own heart, be it the experience of Christ's indwelling (Calvinism) or his good conduct, or works (synergism). **Both Calvinism and synergism therefore ascribe to man the ability to persevere in faith unto the end.**
 
@@ -65,7 +65,6 @@ Since it bas pleased God to bestow His grace upon men by the means of grace, it 
 With respect to the question (crux theologorom), "Why do not all believers persevere in faith" (Our alii, alii non); the Christian theologian has no other answer than that given in [Hos. 13, 9](https://biblehub.com/crossref/hosea/13-9.htm){:target="_blank"}. Those who persevere in faith do so alone by divine grace; those who fall from faith must blame themselves for their apostasy (unbelief; self-righteousness; malicious neglect or rejection of the means of grace). If a. comparison is instituted between two individual persons, such as Saul and David, Judas and Peter, the Christian theologian at this point humbly acknowledges a. mystery which he is incapable of explaining, since Scripture itself does not answer the perplexing question why Saul perished in unbelief and David repented or why Judas died in despair and Peter was rescued from perdition.
 
 The advice of the Formula of Concord with regard to this matter is Scriptural and sound [(Thor. Decl., XI, 57-63)](https://boc.confident.faith/sd-xi-0057){:target="_blank"}: "As regards these things in this disputation which would soar too high and beyond these limits, we should with Paul place the finger upon our lips and remember and say, [Rom. 9, 20](https://biblehub.com/crossref/romans/9-20.htm){:target="_blank"}: 'O man, who art thou that repliest against God?' "
-
 
 ## Eternal election = Preservation of faith
 

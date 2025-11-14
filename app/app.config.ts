@@ -9,6 +9,11 @@ export default defineAppConfig({
         root: 'border-t border-default',
         left: 'text-sm text-muted'
       }
+    },
+    prose: {
+      p: {
+        base: 'text-lg'
+      }
     }
   },
   seo: {
